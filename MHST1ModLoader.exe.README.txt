@@ -1,0 +1,1 @@
+MHST1ModLoader.exe is a launcher for MHST1ModLoader.ps1. If Windows blocks it, run MHST1ModLoader.bat.

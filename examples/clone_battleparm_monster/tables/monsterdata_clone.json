@@ -1,0 +1,15 @@
+{
+  "target_file": "battleparm/MonsterData.bin",
+  "row_count_offset": 0,
+  "count_type": "u16",
+  "row_base": 2,
+  "row_size": 134,
+  "clone_rows": [
+    {
+      "base_index": 0,
+      "set": [
+        { "offset": 0, "type": "u16", "value": 9001 }
+      ]
+    }
+  ]
+}

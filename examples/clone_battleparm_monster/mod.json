@@ -1,0 +1,9 @@
+{
+  "id": "example.clone_battleparm_monster",
+  "name": "Example - Clone MonsterData Row",
+  "version": "1.0.0",
+  "priority": 100,
+  "description": "Demonstrates adding a row to battleparm/MonsterData.bin by cloning an existing row.",
+  "files": [],
+  "table_patches": ["tables/monsterdata_clone.json"]
+}

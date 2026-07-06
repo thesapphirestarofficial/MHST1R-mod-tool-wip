@@ -1,0 +1,1 @@
+{"schema":"mhst1.enemies.v0","add":[{"id":9001,"species_id":9001,"level_curve":"large_monster_standard","hp":4200,"attack":380,"defense":260,"element":"thunder","weakness":"dragon","moveset_id":9001,"ai_profile_id":9001,"drop_table_id":9001}]}

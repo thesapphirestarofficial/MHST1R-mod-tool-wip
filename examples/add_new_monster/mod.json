@@ -1,0 +1,22 @@
+{
+  "id": "example.add_azure_lagiacrus",
+  "name": "Example: Add Azure Lagiacrus",
+  "version": "0.1.0",
+  "priority": 100,
+  "description": "Template showing every patch class needed for a new monster/monstie/equipment chain.",
+  "requires": [],
+  "conflicts": [],
+  "files": [],
+  "table_patches": [
+    "tables/monsters.json",
+    "tables/enemies.json",
+    "tables/movesets.json",
+    "tables/ai_enemy.json",
+    "tables/monsties.json",
+    "tables/ai_ally.json",
+    "tables/items.json",
+    "tables/drops.json",
+    "tables/equipment.json",
+    "tables/quests.json"
+  ]
+}

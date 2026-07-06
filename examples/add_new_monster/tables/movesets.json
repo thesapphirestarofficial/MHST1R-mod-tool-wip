@@ -1,0 +1,1 @@
+{"schema":"mhst1.movesets.v0","add":[{"id":9001,"owner_species_id":9001,"moves":[{"turn_condition":"default","move_id":"TODO_EXISTING_POWER_ATTACK"},{"turn_condition":"charged","move_id":"TODO_EXISTING_THUNDER_ATTACK"},{"turn_condition":"low_hp","move_id":"TODO_EXISTING_SPECIAL"}]}]}

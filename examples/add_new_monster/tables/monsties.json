@@ -1,0 +1,1 @@
+{"schema":"mhst1.monsties.v0","add":[{"id":9001,"species_id":9001,"egg_id":9001,"growth_curve_id":"TODO_EXISTING_GROWTH_CURVE","gene_table_id":9001,"riding_actions":["swim","roar"],"kinship_skill_id":"TODO_COPY_OR_NEW_KINSHIP_ID","ally_ai_profile_id":9001}]}

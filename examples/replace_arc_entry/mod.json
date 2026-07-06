@@ -1,0 +1,15 @@
+{
+  "id": "example.replace_arc_entry",
+  "name": "Example - Replace table.arc Entry",
+  "version": "1.0.0",
+  "priority": 100,
+  "description": "Demonstrates replacing a complete decompressed entry inside table.arc.",
+  "files": [
+    {
+      "arc": "table.arc",
+      "entry": "table/item_data",
+      "source": "files/table/item_data"
+    }
+  ],
+  "table_patches": []
+}

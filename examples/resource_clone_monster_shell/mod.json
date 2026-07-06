@@ -1,0 +1,14 @@
+{
+  "id": "example.resource_clone_monster_shell",
+  "name": "Example - Resource Clone Monster Shell",
+  "version": "0.1.0",
+  "priority": 100,
+  "description": "Shows the folder/manifest shape for adding loose model/animation resources. Replace placeholder files with real cloned resources.",
+  "files": [
+    {
+      "game_path": "native:/mod/mo/mo901/README_PLACEHOLDER.txt",
+      "source": "files/mod/mo/mo901/README_PLACEHOLDER.txt"
+    }
+  ],
+  "table_patches": []
+}

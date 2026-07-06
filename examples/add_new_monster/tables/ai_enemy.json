@@ -1,0 +1,1 @@
+{"schema":"mhst1.ai.enemy.v0","add":[{"id":9001,"style":"patterned","default_tendency":"power","rage_tendency":"technical","rules":[{"if":"turn % 3 == 0","do":"use_charged_attack"},{"if":"hp_percent < 35","do":"use_special"}]}]}

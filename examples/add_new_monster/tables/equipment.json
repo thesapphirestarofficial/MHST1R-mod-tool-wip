@@ -1,0 +1,1 @@
+{"schema":"mhst1.equipment.v0","add":[{"id":90001,"type":"weapon","weapon_kind":"sword_and_shield","internal_name":"azure_lagiacrus_sns","attack":120,"element":"thunder","recipe":[{"item_id":90001,"count":4},{"item_id":90002,"count":2}]}]}

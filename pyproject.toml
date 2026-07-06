@@ -1,0 +1,10 @@
+[project]
+name = "mhst1-mod-injector"
+version = "0.0.1"
+description = "Starter kit for MHST1 mod injection"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mhst1_injector*"]

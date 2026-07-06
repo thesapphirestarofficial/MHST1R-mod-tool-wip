@@ -1,0 +1,1 @@
+{"schema":"mhst1.monsters.v0","add":[{"id":9001,"base_id":"TODO_EXISTING_MONSTER_ID","internal_name":"mod_azure_lagiacrus","display_name_msg_key":"MONSTER_MOD_AZURE_LAGIACRUS","enemy_entry_id":9001,"monstie_entry_id":9001,"model_resource":"mod/monster/azure_lagiacrus/model.mod","icon_resource":"mod/ui/icons/azure_lagiacrus.tex"}]}

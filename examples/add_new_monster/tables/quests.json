@@ -1,0 +1,1 @@
+{"schema":"mhst1.quests.v0","add":[{"id":90001,"type":"subquest","target_species_id":9001,"reward_items":[{"item_id":90001,"count":2}],"unlock_condition":"story_chapter >= TODO_CONFIRM_VALUE"}]}
